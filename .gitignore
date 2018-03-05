@@ -1,0 +1,20 @@
+# Build products and artifacts
+!/.gitignore
+.m2-repository/
+target/
+pom.xml.versionsBackup
+
+# Stuff from various IDE's and editors
+*.iml
+*~
+.idea/*
+*.ipr
+*.iws
+
+.toDelete
+
+.settings
+.project
+.classpath
+bin
+overlays
